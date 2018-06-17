@@ -2,7 +2,7 @@
 
 /* Website Page Settings */
 .sitepage {
-  background-image: url('mthood.png');
+  background-image: url('./images/eclipse.jpg');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
